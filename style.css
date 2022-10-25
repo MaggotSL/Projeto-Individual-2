@@ -1,0 +1,110 @@
+
+
+body{
+    background: url(../img/gif.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.header{
+    background-color: #000000;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    width: 70%;
+    padding-bottom: 0.5px;
+    padding-top: 0.5%;
+    margin-left: 15%;
+    
+}
+
+.font{
+    font-size: 25px;
+    text-align: center;
+}
+
+.todo{
+    margin-top: 3%;
+    margin-left: 15%;
+    width: 50%;
+}
+
+.form1{
+    background-color:  #0f5132;
+    margin-left: 45%;
+    margin-right: 2%;
+    width: 50%;
+    height: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color:#ffffff;
+}
+
+.msg{
+    margin-left: 45%;
+    margin-right: 2%;
+    width: 50%;
+    height: 150px;
+    color:rgb(6, 2, 62);
+    font-size: 20px;
+    background-color: rgba(255, 255, 255, 0.700);
+    padding-left: 2%;
+    padding-right: 2%;
+    font-family: 'Courier New', Courier, monospace;
+    resize: none;
+}
+
+.msg21{
+    margin-top: 3%;
+    margin-left: 45%;
+    margin-right: 2%;
+    background-color: #0f513285;
+    width: 50%;
+    height: 150px;
+    padding-left: 2%;
+    padding-right: 2%;
+    color:#ffffff;
+    font-family: 'Courier New', Courier, monospace;
+    resize: none;
+}
+
+.chavecrip{
+    margin-left: 42.5%;
+    margin-right: 2%;
+    width: 55%;
+    height: 40px;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.form-check-label{
+    color: #ffffff;
+}
+
+.btn{
+    margin-left: 58%;
+    margin-right: 2%;
+    width: 25%;
+    height: 40px;
+    background-color: #0f5132;
+    color: #ffffff;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.btn:hover{
+background-color: #0f513285;
+color: #ffffff;
+}
+
+.form2{
+    margin-left: 45%;
+    margin-right: 2%;
+    width: 50%;
+    background-color: #0f513285;
+}
+P{
+    color: white;
+    text-align: center;
+    font-weight: 700;
+}
